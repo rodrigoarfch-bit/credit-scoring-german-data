@@ -158,6 +158,10 @@ Una implementación productiva requeriría, entre otros elementos, validación c
 ## Autores
 
 Proyecto desarrollado por el **Equipo 2_C** como parte de la maestría en Análisis y Visualización de Datos Masivos.
+Abril Monserrat López García 
+Álvaro Mariano Echeverría Stone 
+Alejandro Peregrino Lizárraga Cázares 
+Rodrigo Adair Ramírez Fragoso 
 
 ## Fuente de datos
 

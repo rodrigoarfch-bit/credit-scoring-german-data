@@ -2,7 +2,7 @@
 
 Prototipo reproducible de **Credit Scoring** desarrollado en Python utilizando **Regresión Logística** y **Random Forest** sobre el conjunto de datos **German Credit Data**.
 
-El proyecto forma parte de un trabajo académico orientado a demostrar cómo una metodología de análisis y modelado predictivo puede integrarse en una herramienta funcional capaz de evaluar nuevos solicitantes, generar probabilidades de riesgo y presentar una clasificación crediticia de forma comprensible.
+El proyecto forma parte del proyecto final de la materia de seminario de innovación en análisis y visualización de datos orientado a demostrar cómo una metodología de análisis y modelado predictivo puede integrarse en una herramienta funcional capaz de evaluar nuevos solicitantes, generar probabilidades de riesgo y presentar una clasificación crediticia de forma comprensible.
 
 ## Objetivo
 
@@ -151,13 +151,13 @@ El flujo de validación mantiene separado el conjunto de prueba antes de aplicar
 
 ## Alcance
 
-Este proyecto corresponde a un **prototipo académico y demostrativo**. No constituye un sistema de aprobación o rechazo de crédito listo para utilizarse en un entorno financiero real.
+Este proyecto corresponde a un **prototipo demostrativo**. No constituye un sistema de aprobación o rechazo de crédito listo para utilizarse en un entorno financiero real.
 
 Una implementación productiva requeriría, entre otros elementos, validación con datos actuales y representativos de la población objetivo, revisión de variables y criterios de negocio, gobierno y monitoreo del modelo, controles de seguridad y cumplimiento de los requisitos regulatorios aplicables.
 
 ## Autores
 
-Proyecto desarrollado por el **Equipo 2_C** como parte del Máster Universitario en Análisis y Visualización de Datos Masivos.
+Proyecto desarrollado por el **Equipo 2_C** como parte de la maestría en Análisis y Visualización de Datos Masivos.
 
 ## Fuente de datos
 
